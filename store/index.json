@@ -803,5 +803,19 @@
     	"desc": "Virtual Machine...",
     	"feat": "Inception",
     	"invert": true
-  }
+  },
+	    {
+  		"name": "Luminesence",
+  		"icon": "",
+  		"type": "app",
+  		"data": {
+    			"type": "IFrame",
+    			"url": "luminesence.html",
+    			"gallery": [
+      				""
+    	],
+    	"desc": "Luminesence provides free games to those that do not have them. There is also a github page, https://github.com/LuminesenceProject/Luminesence-website",
+    	"feat": "A popular game site with hacks.",
+    	"invert": false
+  }    
 }]
